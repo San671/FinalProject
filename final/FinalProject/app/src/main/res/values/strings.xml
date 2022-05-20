@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Covid Stats</string>
+    <string name="recovered">Recovered</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="deaths">Deaths</string>
+    <string name="title">Covid Stats</string>
+    <string name="country">Kazakh</string>
+    <string name="key_theme">tema</string>
+    <string name="titik_dua"> : </string>
+    <string name="zero">0</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="positive">Positive</string>
+    <string name="total_confirmed">Total Confirmed</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="second_title1">Status Covid</string>
+    <string name="second_title2">lil title</string>
+    <string name="date">Date</string>
+    <string name="nodata">No dada</string>
+    <string name="data_cases">Data Cases</string>
+    <string name="dark">dark</string>
+    <string name="bright">bright</string>
+    <string name="today_status">"Status: "</string>
+</resources>
